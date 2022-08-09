@@ -1,0 +1,109 @@
+body{color: white;
+    background: gray;
+    margin: 0%;
+    padding: 0;
+}
+header {background-color: rgb(41, 41, 69);
+padding: 10px;
+
+list-style-type: none;}
+
+.web-title{ 
+    display: flex;
+    flex-direction: column;
+   padding: 10px;
+    height: auto;
+    margin-left: 150px;}
+    .web-title figure{ margin: -130px 0px 0px 500px;}
+
+p{margin-top: -10px;}
+button{width: 100px;
+    height: auto;
+    padding: 5px;
+background-color: rgb(3, 142, 255);
+color: beige;
+font-size: medium;
+font-family:Arial, Helvetica, sans-serif;
+border-radius: 5px;}
+
+.nav-bar{
+margin: 0;
+padding: 1rem;
+display: flex;
+justify-content: flex-end;
+align-items:center ;}
+.logo{ list-style: none;
+    margin-right: 2rem;
+
+}
+ul :first-child{ margin-right: auto;
+margin-left: 10rem;}
+
+
+.random{
+    color: black;
+    padding: 10px;
+ background-color: white;}
+ 
+ .display{
+    padding: 40px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+justify-content:center;}
+   
+.box{ padding: 30px;
+    margin: 10px;
+    height: 100px;
+    border-radius: 10px;
+background-color: white;
+border-color: rgb(0, 110, 255);
+}
+   
+.letters{
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    display: flex;
+}
+
+  
+
+
+.quote{ padding: 100px;
+background-color: lightgray;
+color: black;
+font-family:'Times New Roman', Times, serif;
+justify-content: center;}
+.action{ padding: 40px;
+background-color:white;
+color: white;
+display: flex}
+.rectangle{
+    margin: auto;
+    width: 500px;
+height: 80px;
+background-color: rgb(7, 127, 232);
+justify-content: center;
+border-radius: 5px}
+.button2{
+    padding: 1px;
+    color: white;
+    border-color: white;
+    margin-top: 30px;
+    margin-left: 320px;}
+    .text{ margin-top: -25px;
+    margin-left: 60px;}
+    .text2{margin-top: -18px;
+    margin-left: 60px;
+font-size: smaller;
+font-family: 'Times New Roman', Times, serif;
+color: lightgray;}
+    
+.footer{ padding: 50px;
+background-color: rgb(41, 41, 69);}
+.copy{ text-align: center;}
+
+
