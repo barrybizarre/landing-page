@@ -101,6 +101,16 @@ border-radius: 5px}
 font-size: smaller;
 font-family: 'Times New Roman', Times, serif;
 color: lightgray;}
+.container{display: flex;
+    flex-direction: row;
+    max-width: 1400px;
+    justify-content: center}
+   
+.bean { width: 150px;
+height: 100px;
+margin-right: 100px;
+margin-left: 0;
+background-color: white;}
     
 .footer{ padding: 50px;
 background-color: rgb(41, 41, 69);}
